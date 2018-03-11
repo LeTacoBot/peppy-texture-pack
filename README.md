@@ -15,7 +15,7 @@ Copy the "peppy" folder to your minetest/textures directory. Open up Minetest an
 ### Currently Supported Mods:
 
 All of minetest_game
-(beds, boats, bones, bucket, creative, default, doors, dye, farming, fire, flowers, give_initial_stuff, screwdriver, sethome, stairs, tnt, vessels, walls, wool, and xpanes)
+(beds, binoculars, boats, bones, bucket, carts, creative, default, doors, dye, farming, fire, fireflies, flowers, map, player_api, screwdriver, tnt, vessels, walls, wool, and xpanes)
 
 ### Mods That Will be Supported in the Future:
 
